@@ -65,10 +65,3 @@
 ---
 
 <div align="center">
-
-### 🏏 When I'm not coding...
-
-```python
-if not coding:
-    play_cricket()
-# Strategy matters everywhere 🙂
