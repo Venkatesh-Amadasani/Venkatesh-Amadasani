@@ -1,67 +1,128 @@
----
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F9,100:9333EA&height=140&section=header&text=Venkatesh%20Amadasani&fontAlign=50&fontAlignY=35&fontSize=38&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&size=24&duration=3000&pause=800&center=true&vCenter=true&width=850&lines=Python+%7C+SQL+%7C+Machine+Learning;Data+Analysis+%26+EDA+%7C+NumPy+%7C+Pandas;Power+BI+%7C+Excel;Curiosity.+Consistency.+Clean+Code." />
+</p>
+
+<!-- Wave Hand + Short Intro -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>Hey there! I'm Venkatesh Amadasani</h1>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <b>Hey there! I’m Venkatesh</b>
+  <br/>B.Tech (AI & ML) @ Siddartha Institute of Science and Technology · CGPA 8.87
+  <br/>I enjoy turning raw data into simple, practical insights.
 </div>
 
-## 🚀 About Me
-🎓 B.Tech (AI & ML) student from Siddartha Institute of Science and Technology (CGPA: 8.87)  
-🐍 Python & Machine Learning Enthusiast  
-📊 Passionate about Data Analysis & Exploratory Data Analysis (EDA)  
-📈 Enjoy turning raw data into meaningful insights  
-🏏 Cricket lover who codes with strategy ✨
+<!-- Quick Links -->
+<p align="center">
+  <a href="mailto:venkeyammadani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-venkeyammadani%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/venkatesh80" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-venkatesh80-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Venkatesh-Amadasani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Venkatesh--Amadasani-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:7c3aed&height=2&section=footer"/>
+</p>
+
+## ⚡ About Me
+- 🎯 Focus: **Python, SQL, Machine Learning, Data Analysis, EDA**
+- 📊 Love: Making **data speak** using **NumPy, Pandas, Excel, Power BI**
+- 🧠 Approach: Keep it **simple, readable, reproducible**
+- 🏏 Fun: Cricket + Code — strategy in both!
 
 ---
 
-## 💻 Skills
+## 🧰 Tech Stack (Animated)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <br/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDA-Analysis-blueviolet?style=for-the-badge" />
+</p>
 
-| Category | Skills |
-|--------|--------|
-| **Programming** | Python |
-| **Machine Learning** | Model Training & Evaluation, Feature Engineering |
-| **Data Analysis / EDA** | Pandas, NumPy, Data Cleaning, Pattern Analysis |
-| **Visualization & BI** | Power BI, Matplotlib, Seaborn |
-| **Productivity & Reporting** | Excel (Pivot Tables, Formulas, Dashboards) |
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:f43f5e&height=2&section=footer"/>
+</p>
 
----
+## 🚀 Featured Projects
+> Low-key, practical builds focused on clarity and learning.
 
-## 🛠 Tools & Technologies
+<details open>
+<summary><b>💻 Laptop Price Prediction</b></summary>
 
-<div align="center">
+- Classified laptop price categories using hardware specs (RAM/CPU/GPU/Storage).
+- Performed **EDA** to understand drivers of price; compared ML models.
+- **Stack:** Python, Pandas, NumPy, scikit-learn, Matplotlib/Seaborn.
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<details>
+<summary><b>🧠 Human Stress Level Detection (Logistic Regression)</b></summary>
 
-</div>
+- Binary classification on physiological & lifestyle features.
+- Emphasized preprocessing, correlation analysis, interpretability.
+- **Stack:** Python, Pandas, NumPy, scikit-learn, Visualization.
+</details>
 
----
+<details>
+<summary><b>⚡ Electricity Theft Detection</b></summary>
 
-## 🏆 Certifications
-
-| Certification | Organization | Status |
-|:-------------:|:------------:|:------:|
-| Python 101 for Data Science | IBM Cognitive Class | ✅ Completed |
-| AI-ML-DS Internship | APSCHE IIDT Blackbucks | ✅ Completed |
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkatesh80)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkatesh-Amadasani)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkeyammadani@gmail.com)
-
-</div>
+- Detected abnormal consumption patterns using ML.
+- Focus on feature engineering, scaling, anomaly awareness.
+- **Stack:** Python, Pandas, NumPy, scikit-learn.
+</details>
 
 ---
 
-<div align="center">
+## 🏅 Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM-Python%20101%20for%20Data%20Science-0A62BC?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/APSCHE%20IIDT-ML%20%7C%20DS%20Internship-10B981?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Analytics (Animated)
+<p align="center">
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=Venkatesh-Amadasani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak stats" />
+  <br/><br/>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh-Amadasani&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-Amadasani&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<!-- Profile Views (animated count style) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Venkatesh-Amadasani&style=for-the-badge&color=blueviolet" />
+</p>
+
+---
+
+## 🤝 Connect
+<p align="center">
+  <a href="mailto:venkeyammadani@gmail.com"><img src="https://img.shields.io/badge/Email-venkeyammadani%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/venkatesh80" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-venkatesh80-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Venkatesh-Amadasani" target="_blank"><img src="https://img.shields.io/badge/GitHub-Venkatesh--Amadasani-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🏏 When I’m not coding…
+```python
+if not coding:
+    play_cricket()
+# Strategy matters on the field and in code 🏏
